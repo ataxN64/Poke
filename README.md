@@ -1,1 +1,2 @@
-# Poke
+# NewPokedex
+This's school project
